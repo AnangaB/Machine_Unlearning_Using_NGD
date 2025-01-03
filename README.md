@@ -49,7 +49,7 @@ Currently implementation in this project is in progress, and so no Results are p
 Clone this repository and install the necessary dependencies:
 
 ```bash
-git clone <repository_url>
-cd <repository_directory>
+git clone https://github.com/AnangaB/Machine_Unlearning_Using_NGD.git
+cd Machine_Unlearning_Using_NGD
 pip install -r requirements.txt
 ```
